@@ -1,0 +1,26 @@
+Nama : Delvita Widaningsih Caniago
+NIM : 22416255201203
+Kelas : IF22E 
+
+jawaban UTS 
+
+1. Apa yang dimaksud Framework pada pengembangan Aplikasi ?
+jawaban :
+framework adalah kumpulan kde, fungsi, dan fitur yang sudah siap digunakan, sehingga dapat mempermudah proses dalam pengembangan aplikasi. framework berfungsi untuk mempermudah dan mempercepat proses dalam pengembangan aplikasi, meningkatkan kualitas, keamanan aplikasi. sehingga framework sangat efisien dan terstruktur.
+
+2.1 Sebutkan tema proyek yang sedang digarap!
+jawaban :
+Koperasi
+
+2.2 Sebutkan anggota dari proyek yang sedang
+jawaban :
+1. Muhammad Rifky Alfian, sebagai Fullstack Developer & Penanggung jawab proyek
+2. Muhamad Haris Syahroni, sebagai Frontend Developer & Penyusun laporan
+3. Delvita Widaningsih Caniago, sebagai Frontend Developer & Penyusun laporan
+
+2.3 Jelaskan permasalahan yang didapat setelah hasil wawancara dengan
+client, beserta hipotesa solusi yang kalian usung!
+jawaban :
+1. pihak pengurus koperasi meminta untuk dibuatkan sistem informasi anggota koperasi dengan registrasi memasukan dan diri dan ijin usaha karna koperasi umkm seterlah registras atau pendaftran anggota. pengurus koperasi akan memverifikasi data dan ijin usaha anggota yang mendaftar.
+
+2. dalam kopeasi umkm ini ada aturan mengenai simpanan anggota. jadi untuk anggota yang aktif dalam koperasi membayar simpanan wajib untuk koperasi, yang masih menginputkan dan membayar simpanan wajib dengan manual. jadi pengurus koperasi ingin membuat sistem dengan penginputan atau laporan secara otomatis oleh sistem, sebagai pembayaran dan verifikasi dalam simpanan untuk koperasi.
